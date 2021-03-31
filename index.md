@@ -1,14 +1,3 @@
-###<img src="Robin.jpeg" width = 135  align="left" />&nbsp;&nbsp;Libin Zheng (郑立彬)  
-&nbsp;&nbsp;&nbsp;Postdoc fellow in [Department of Computer Science of Technology](https://www.cse.ust.hk/)  
-&nbsp;&nbsp;&nbsp;[Hong Kong University of Science and Technology](http://www.ust.hk/)  
-&nbsp;&nbsp;&nbsp; Email: lzhengab@connect.ust.hk </br>
-&nbsp;&nbsp;&nbsp; Office: Room 3657, Academic building, HKUST  
-<!--&nbsp;&nbsp;&nbsp;[Download my cover letter](CV.pdf)-->
-</br>
-</br>
-</br>
-</b3>
-
 ###About me  
 I am currently a post-doctoral fellow at Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST), led by Prof. [Lei Chen](http://www.cse.ust.hk/~leichen/). I obtained my bachelor degree from [South China University of Technology](http://www.scut.edu.cn/new/) in Jul. 2015, and my Ph.D. degree from HKUST in Jun. 2019.
 
