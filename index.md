@@ -1,14 +1,14 @@
-###About me  
+### About me  
 I am currently a post-doctoral fellow at Department of Computer Science and Engineering in Hong Kong University of Science and Technology (HKUST), led by Prof. [Lei Chen](http://www.cse.ust.hk/~leichen/). I obtained my bachelor degree from [South China University of Technology](http://www.scut.edu.cn/new/) in Jul. 2015, and my Ph.D. degree from HKUST in Jun. 2019.
 
 
-###Research focus  
+### Research focus  
 - Shared mobility, car-hailing, ridesharing. 
 - Spatial-temporal data processing. 
 - Crowdsourcing,  spatial crowdsourcing.
 
 
-###Publications
+### Publications
 Libin Zheng, Peng Cheng, Lei Chen, ``[Auction-based Order Dispatch and Pricing in Ridesharing](https://ieeexplore.ieee.org/abstract/document/8731370).'' International Conference on Data Engineering, IEEE, 2019. 
 
 Libin Zheng, Lei Chen, ``[Multi-campaign Oriented Spatial Crowdsourcing](https://ieeexplore.ieee.org/document/8613886).'' IEEE Transactions on Knowledge and Data Engineering, 2018.
@@ -37,16 +37,16 @@ Libin Zheng, Wing WY Ng. "[Rotated k-means hashing for image retrieval problems]
 
 
 
-###Associated groups and projects
+### Associated groups and projects
 - [The Spatial-Temporal Crowdsourcing (STC) group](http://www.cse.ust.hk/stc/)  
 - [gMission - an open sourced spatial crowdsourcing platform](http://gmission.github.io/)
 
-###Postgraduate course grades  
+### Postgraduate course grades  
 - A+: Advanced Algorithms, Intro. Combinatorial Optimization
 - A :  Computational Geometry, Knowledge Discovery in DB, Machine Learning 
 - A-: Travel Demand Analysis, Fnds. Software Analysis 
 
-###Other experiences
+### Other experiences
 
 - Internship at the ridesharing group of [Didi Chuxing](http://www.xiaojukeji.com/), Aug. ~ Dec. 2017.  
 - Teaching Assistant, Database Management Systems (COMP 3311), Spring 2016 and Spring 2017.  
