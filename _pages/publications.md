@@ -17,7 +17,7 @@ author_profile: true
 
 ## 2021
 - **Libin Zheng**, Lei Chen, Cyrus Shahabi. [Centralized Routing for Bike-Sharing Systems](), IEEE Transactions on Knowledge and Data Engineering 35 (1), 154-166, 2021.    &emsp; **CCF-A**
-- Maocheng Li, Jiachuan Wang, **Libin Zheng**, Han Wu, Peng Cheng, Lei Chen, Xuemin Lin. [Privacy-Preserving Batch-based Task Assignment in Spatial Crowdsourcing with Untrusted Server. Proceedings of the 30th ACM International Conference on Information, 2021.  &emsp; **CCF-B，Best Paper Nomination** 
+- Maocheng Li, Jiachuan Wang, **Libin Zheng**, Han Wu, Peng Cheng, Lei Chen, Xuemin Lin. [Privacy-Preserving Batch-based Task Assignment in Spatial Crowdsourcing with Untrusted Server]()s. Proceedings of the 30th ACM International Conference on Information, 2021.  &emsp; **CCF-B，Best Paper Nomination** 
 - 	Peng Cheng, Jiabao Jin, Lei Chen, Xuemin Lin, **Libin Zheng**. [A queueing-theoretic framework for vehicle dispatching in dynamic car-hailing](), Proceedings of the VLDB Endowment, (14), 2177–2189, 2021. 	&emsp; **CCF-A**
 -	Qiyu Liu, **Libin Zheng***, Xiang Lian, Lei Chen. [Efficiently Discovering Regions of Interest with User-Defined Score Function](), International Conference on Database Systems for Advanced Applications, 591-608, 2021. 	&emsp; **CCF-B**
 
