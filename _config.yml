@@ -83,9 +83,9 @@ author:
   name             : "郑立彬(Libin Zheng)"
   avatar           : "profile.jpg"
   bio              : "Associate professor at School of Artificial Intelligence, SYSU"
-  location         : "Zhuhai"
+  location         : "SYSU Zhuhai"
   employer         :
-  pubmed           :  "https://dblp.org/pid/200/2467.html"
+  pubmed           : # "https://dblp.org/pid/200/2467.html"
   googlescholar    : "https://scholar.google.com.hk/citations?user=_zsllSIAAAAJ&hl=zh-CN"
   email            :  "zhenglb6@mail.sysu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
