@@ -32,8 +32,7 @@ Student opportunity
 ======
 We collaborate with HKUST, HKPolyU and ECNU on spatiotemporal data research, with student exchange under funding supports.
 
-<red>News</red>  
-======
+## <red>News</red>  
 
 - <img src="./keyboard.svg" height="15">  I was appointed as a [local chair for VLDB'2024](https://vldb.org/2024/?officers) and a program comittee member for ICDE'2024.  &emsp; 2023/05
 - <img src="./newspaper.svg" height="15">  Our paper about pricing for hub-oriented mobility service, [with the year-3 undergraduate Zuohan as the first author, has been accepted by ICDE'2023](https://sai.sysu.edu.cn/news/1407649.htm).  &emsp; 2023/03
