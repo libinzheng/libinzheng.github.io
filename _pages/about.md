@@ -26,7 +26,7 @@ I am currently an associate professor at the [School of Artificial Intelligence]
 
 Research focus  
 ======
-- Learned mobility management, learned transport, AI4DB.
+- Learning-driven mobility, reinforcement learning for transport, AI4DB.
 
 Student opportunity
 ======
