@@ -34,6 +34,7 @@ We collaborate with HKUST, HKPolyU and ECNU on spatiotemporal data research, wit
 
 <red>News</red>  
 ======
+
 - <img src="./keyboard.svg" height="15">  I was appointed as a [local chair for VLDB'2024](https://vldb.org/2024/?officers) and a program comittee member for ICDE'2024.  &emsp; 2023/05
 - <img src="./newspaper.svg" height="15">  Our paper about pricing for hub-oriented mobility service, [with the year-3 undergraduate Zuohan as the first author, has been accepted by ICDE'2023](https://sai.sysu.edu.cn/news/1407649.htm).  &emsp; 2023/03
 - <img src="./keyboard.svg" height="15">  Collaborating with HKUST and CETC, [we have won a national key grant from NSFC](https://gd.chinadaily.com.cn/a/202211/14/WS63719bd8a3109bd995a4fc54.html), with a fund around 2.6 million. &emsp; 2022/11
