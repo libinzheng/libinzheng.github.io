@@ -4,8 +4,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2024
+- [Privacy-preserving Traffic Flow Release with Consistency
+Constraints]()，Xiaoting Zhu, **Libin Zheng***, Chen Jason Zhang, Peng Cheng, Rui Meng, Lei Chen, Xuemin Lin, Jian Yin, International Conference on Data Engineering, accepted, 2024. &emsp;	 **CCF-A**
+
+
 ## 2023
-- Zuohan Wu, **Libin Zheng***, Chen Jason Zhang, Huaijie Zhu, Jian Yin, Di Jiang. [Opponent-aware Order Pricing towards Hub-oriented Mobility Services](), International conference on data engineering, accepted, 2023. 	&emsp;	 **CCF-A**
+
+- [Generating Deep Questions with Commonsense Reasoning Ability from the Text by Disentangled Adversarial Inference](), Jianxing Yu, Shiqi Wang, **Libin Zheng**, Qinliang Su, Wei Liu, Baoquan Zhao, Jian Yin, Findings of the Association for Computational Linguistics: ACL 2023. &emsp;	 **CCF-A**
+- Zuohan Wu, **Libin Zheng***, Chen Jason Zhang, Huaijie Zhu, Jian Yin, Di Jiang. [Opponent-aware Order Pricing towards Hub-oriented Mobility Services](), International conference on data engineering, 1874-1886, 2023. 	&emsp;	 **CCF-A**
 - 	Leilei Du, Peng Cheng, **Libin Zheng**, Wei Xi, Xuemin Lin, Wenjie Zhang, Jing Fang. [Dynamic Private Task Assignment under Differential Privacy](). International conference on data engineering, accepted, 2023. 	&emsp;	**CCF-A**
 - Maocheng Li, Yuxiang Zeng, **Libin Zheng***, Lei Chen, Qing Li. [Accurate and Efficient Trajectory-based Contact Tracing with Secure Computation and Geo-Indistinguishability](), The 28th International Conference on Database Systems for Advanced Applications, 2023.  &emsp;	**CCF-B**
 
