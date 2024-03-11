@@ -6,16 +6,15 @@ author_profile: true
 ---
 ## 2024
 - [Privacy-preserving Traffic Flow Release with Consistency
-Constraints]()，Xiaoting Zhu, **Libin Zheng***, Chen Jason Zhang, Peng Cheng, Rui Meng, Lei Chen, Xuemin Lin, Jian Yin, International Conference on Data Engineering, accepted, 2024. &emsp;	 **CCF-A**
+Constraints]()，Xiaoting Zhu, **Libin Zheng***, Chen Jason Zhang, Peng Cheng, Rui Meng, Lei Chen, Xuemin Lin, Jian Yin, International Conference on Data Engineering, accepted, 2024. &emsp; **CCF-A**
 - [Cross-domain-aware Worker Selection with Training
 for Crowdsourced Annotation](), Yushi Sun, Jiachuan Wang*, Peng Cheng, **Libin Zheng***, Lei Chen, Jian Yin.  International Conference on Data Engineering, accepted, 2024. &emsp;    **CCF-A**
-
 - [Wait to be Faster: a Smart Pooling Framework for
-Dynamic Ridesharing](), Xiaoyao Zhong, Jiabao Jin, Peng Cheng, Wangze Ni, **Libin Zheng**, Lei Chen, Xuemin Lin, International Conference on Data Engineering, accepted, 2024. &emsp;
-	 **CCF-A**
+Dynamic Ridesharing](), Xiaoyao Zhong, Jiabao Jin, Peng Cheng, Wangze Ni, **Libin Zheng**, Lei Chen, Xuemin Lin, International Conference on Data Engineering, accepted, 2024. &emsp; **CCF-A**
 - [TrendSharing: a Framework to Discover and Follow
 the Trends for Shared Mobility Services](), Jiexi Zhan, Han Wu, Peng Cheng, **Libin Zheng**, Lei Chen, Chen Zhang, Xuemin Lin, Wenjie Zhang, International Conference on Data Engineering, accepted, 2024. &emsp;
 	 **CCF-A**
+- [Longer Pick-up for Less Pay: Towards Discount-based Mobility Services](), Wanyi Xie, Zhijia Chen, Chen Jason Zhang, **Libin Zheng***, Peng Cheng, Jian Yin, Xuemin Lin. IEEE Transactions on Knowledge and Data Engineering，2024 (01): 1-14.  &emsp;  **CCF-A**
 
 
 ## 2023
