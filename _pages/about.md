@@ -35,7 +35,7 @@ We collaborate with HKUST, HKPolyU and ECNU scholars on spatiotemporal data rese
 - Ph.d studentship under supervision of Prof. [Lei Chen at HKUST-GZ](https://www.hkust-gz.edu.cn/zh/people/%E9%99%88%E9%9B%B7/).
 
 # <red>News</red>  
-
+- <img src="./keyboard.svg" height="15">  我们的成果“[物联网数据管理与表示的技术方法级应用](https://mp.weixin.qq.com/s/D68hfrtV4zYIDVwOgrClGQ)”获得 广东省计算机学会科学技术奖自然科学二等奖，第一完成人。  &emsp; 2024/01
 - <img src="./keyboard.svg" height="15">  I was appointed as a [local chair for VLDB'2024](https://vldb.org/2024/?officers) and a program comittee member for ICDE'2024.  &emsp; 2023/05
 - <img src="./newspaper.svg" height="15">  Our paper about pricing for hub-oriented mobility service, [with the year-3 undergraduate Zuohan as the first author, has been accepted by ICDE'2023](https://sai.sysu.edu.cn/news/1407649.htm).  &emsp; 2023/03
 - <img src="./keyboard.svg" height="15">  Collaborating with HKUST and CETC, [we have won a national key grant from NSFC](https://gd.chinadaily.com.cn/a/202211/14/WS63719bd8a3109bd995a4fc54.html), with a fund around 2.6 million. &emsp; 2022/11
