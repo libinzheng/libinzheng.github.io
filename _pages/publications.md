@@ -5,26 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2024
-- [Privacy-preserving Traffic Flow Release with Consistency
-Constraints]()，Xiaoting Zhu, **Libin Zheng***, Chen Jason Zhang, Peng Cheng, Rui Meng, Lei Chen, Xuemin Lin, Jian Yin, International Conference on Data Engineering, accepted, 2024. &emsp; **CCF-A**
-- [Cross-domain-aware Worker Selection with Training
-for Crowdsourced Annotation](), Yushi Sun, Jiachuan Wang* , Peng Cheng, **Libin Zheng***, Lei Chen, Jian Yin.  International Conference on Data Engineering, accepted, 2024. &emsp;    **CCF-A**
-- [Wait to be Faster: a Smart Pooling Framework for
-Dynamic Ridesharing](), Xiaoyao Zhong, Jiabao Jin, Peng Cheng, Wangze Ni, **Libin Zheng**, Lei Chen, Xuemin Lin, International Conference on Data Engineering, accepted, 2024. &emsp; **CCF-A**
-- [TrendSharing: a Framework to Discover and Follow
-the Trends for Shared Mobility Services](), Jiexi Zhan, Han Wu, Peng Cheng, **Libin Zheng**, Lei Chen, Chen Zhang, Xuemin Lin, Wenjie Zhang, International Conference on Data Engineering, accepted, 2024. &emsp;
-	 **CCF-A**
-- [Longer Pick-up for Less Pay: Towards Discount-based Mobility Services](), Wanyi Xie, Zhijia Chen, Chen Jason Zhang, **Libin Zheng***, Peng Cheng, Jian Yin, Xuemin Lin. IEEE Transactions on Knowledge and Data Engineering，2024 (01): 1-14.  &emsp;  **CCF-A**
-- [Accelerating Training of Large Neural Models by Gradient-based Growth Learning](),  Haowei Jiang, Jianxing Yu, Libin Zheng, Huaijie Zhu, Wei Liu, Jian Yin. International Conference on Database Systems for Advanced Applications, accepted, 2024. &emsp;  **CCF-B**
+- Xiaoting Zhu, **Libin Zheng***, Chen Jason Zhang, Peng Cheng, Rui Meng, Lei Chen, Xuemin Lin, Jian Yin. [Privacy-preserving Traffic Flow Release with Consistency Constraints]()，International Conference on Data Engineering, accepted, 2024. &emsp; **CCF-A**
+-  Yushi Sun, Jiachuan Wang* , Peng Cheng, **Libin Zheng***, Lei Chen, Jian Yin.  [Cross-domain-aware Worker Selection with Training for Crowdsourced Annotation](), International Conference on Data Engineering, accepted, 2024. &emsp;    **CCF-A**
+-  Xiaoyao Zhong, Jiabao Jin, Peng Cheng, Wangze Ni, **Libin Zheng**, Lei Chen, Xuemin Lin, [Wait to be Faster: a Smart Pooling Framework for Dynamic Ridesharing](), International Conference on Data Engineering, accepted, 2024. &emsp; **CCF-A**
+- Jiexi Zhan, Han Wu, Peng Cheng, **Libin Zheng**, Lei Chen, Chen Zhang, Xuemin Lin, Wenjie Zhang, [TrendSharing: a Framework to Discover and Follow the Trends for Shared Mobility Services](), International Conference on Data Engineering, accepted, 2024. &emsp;   **CCF-A**
+- Wanyi Xie, Zhijia Chen, Chen Jason Zhang, **Libin Zheng***, Peng Cheng, Jian Yin, Xuemin Lin. [Longer Pick-up for Less Pay: Towards Discount-based Mobility Services](), IEEE Transactions on Knowledge and Data Engineering，2024 (01): 1-14.  &emsp;  **CCF-A**
+- Yufeng Zhang, Jianxing Yu, Yanghui Rao, **Libin Zheng**, Qinliang Su, Huaijie Zhu, Jian Yin. [Domain Adaptation for Subjective Induction Questions Answering on Products by Adversarial Disentangled Learning]()，Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics, 2024: 9074-9089.  **CCF-A**
+- [Accelerating Training of Large Neural Models by Gradient-based Growth Learning](),  Haowei Jiang, Jianxing Yu, **Libin Zheng**, Huaijie Zhu, Wei Liu, Jian Yin. International Conference on Database Systems for Advanced Applications, pp. 19-34, 2024. &emsp;  **CCF-B**
 ## 2023
 
-- [Generating Deep Questions with Commonsense Reasoning Ability from the Text by Disentangled Adversarial Inference](), Jianxing Yu, Shiqi Wang, **Libin Zheng**, Qinliang Su, Wei Liu, Baoquan Zhao, Jian Yin, Findings of the Association for Computational Linguistics: ACL 2023. &emsp;	 **CCF-A**
-- Zuohan Wu, **Libin Zheng***, Chen Jason Zhang, Huaijie Zhu, Jian Yin, Di Jiang. [Opponent-aware Order Pricing towards Hub-oriented Mobility Services](), International conference on data engineering, 1874-1886, 2023. 	&emsp;	 **CCF-A**
-- 	Leilei Du, Peng Cheng, **Libin Zheng**, Wei Xi, Xuemin Lin, Wenjie Zhang, Jing Fang. [Dynamic Private Task Assignment under Differential Privacy](). International conference on data engineering, accepted, 2023. 	&emsp;	**CCF-A**
-- Maocheng Li, Yuxiang Zeng, **Libin Zheng***, Lei Chen, Qing Li. [Accurate and Efficient Trajectory-based Contact Tracing with Secure Computation and Geo-Indistinguishability](), The 28th International Conference on Database Systems for Advanced Applications, 2023.  &emsp;	**CCF-B**
+- [Generating Deep Questions with Commonsense Reasoning Ability from the Text by Disentangled Adversarial Inference](), Jianxing Yu, Shiqi Wang, **Libin Zheng**, Qinliang Su, Wei Liu, Baoquan Zhao, Jian Yin, Findings of the Association for Computational Linguistics: ACL, pp. 470-486, 2023. &emsp;	 **CCF-A**
+- Zuohan Wu, **Libin Zheng***, Chen Jason Zhang, Huaijie Zhu, Jian Yin, Di Jiang. [Opponent-aware Order Pricing towards Hub-oriented Mobility Services](), International conference on data engineering, pp. 1874-1886, 2023. 	&emsp;	 **CCF-A**
+- 	Leilei Du, Peng Cheng, **Libin Zheng**, Wei Xi, Xuemin Lin, Wenjie Zhang, Jing Fang. [Dynamic Private Task Assignment under Differential Privacy](). International conference on data engineering, pp. 2740-2752, 2023. 	&emsp;	**CCF-A**
+- Maocheng Li, Yuxiang Zeng, **Libin Zheng***, Lei Chen, Qing Li. [Accurate and Efficient Trajectory-based Contact Tracing with Secure Computation and Geo-Indistinguishability](), The 28th International Conference on Database Systems for Advanced Applications, pp. 300-316, 2023.  &emsp;	**CCF-B**
 
 ## 2022
--	Huaijie Zhu, Wei Liu, Jian Yin, **Libin Zheng**, Xin Huang, Jianliang Xu, Wang-Chien Lee. [Continuous Geo-Social Group Monitoring in Dynamic LBSNs](). IEEE Transactions on Knowledge and Data Engineering, accepted, 2022.	  &emsp;	**CCF-A**
+-	Huaijie Zhu, Wei Liu, Jian Yin, **Libin Zheng**, Xin Huang, Jianliang Xu, Wang-Chien Lee. [Continuous Geo-Social Group Monitoring in Dynamic LBSNs](). IEEE Transactions on Knowledge and Data Engineering, 35(8), 7815-7828, 2022.	  &emsp;	**CCF-A**
 - Jiachuan Wang, Peng Cheng, **Libin Zheng**, Lei Chen, Wenjie Zhang. [Online Ridesharing with Meeting Points](). Proceedings of the VLDB Endowment, 15(13): 3963-3975, 2022.   &emsp; **CCF-A**
 - **Libin Zheng**, Lei Chen, Peng Cheng. [Privacy-preserving worker allocation in crowdsourcing](), The VLDB Journal 31 (4), 733-751, 2022.  &emsp; **CCF-A**
 - **Libin Zheng**, Peng Cheng, Lei Chen, Jianxing Yu, Xuemin Lin, Jian Yin. [Crowdsourced Fact Validation for Knowledge Bases](), IEEE 38th International Conference on Data Engineering (ICDE), 938-950, 2022.    &emsp; **CCF-A**
