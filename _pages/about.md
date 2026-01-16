@@ -23,13 +23,13 @@ orange {
 
 I am currently an associate professor at the [School of Artificial Intelligence](http://sai.sysu.edu.cn/) in Sun Yat-sen University, and also a member at the [Guangdong Key Laboratory of Big Data Analysis and Processing](https://cse.sysu.edu.cn/gdbigdata/). I received my Ph.D degree at the department of computer science and engineering of the Hong Kong University of Science and Technology (HKUST), under supervision of Prof. Lei Chen.
 
-Research focus  
+<!--Research focus  
 ======
 - Learning-driven mobility, reinforcement learning for transport, AI4DB.
-
+-->
 Student Opportunity
 ======
-We collaborate with HKUST, HKPolyU and ECNU scholars on spatiotemporal data research, with the following opportunities:
+We collaborate with HKUST, HKPolyU and Tongji Uni. scholars on spatiotemporal data research, with the following opportunities:
 
 - Research internship at HKpolyU with substantial allowance. 
 - Ph.d studentship under supervision of Prof. [Lei Chen at HKUST-GZ](https://www.hkust-gz.edu.cn/zh/people/%E9%99%88%E9%9B%B7/).
